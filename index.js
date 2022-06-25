@@ -21,6 +21,8 @@ Canvas.registerFont( 'data/LSANS.ttf', { family: "LSANS" } );
 
 var exportPath ='exportImage/';
 
+"engines": {"node":"v16.15.1","npm": "8.11.0"
+
 var imgUrl = "https://render.albiononline.com/v1/item/";
 var emptyUrl = "data/emptyImg.png";
 
